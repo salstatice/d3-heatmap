@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+}
+heading {
+  text-align: center;
+}
+
+svg {
+  background: Cornsilk;
+}
+
+#tooltip {
+  background: grey;
+}
+
+.legend-swatch{
+  stroke: black;
+}
